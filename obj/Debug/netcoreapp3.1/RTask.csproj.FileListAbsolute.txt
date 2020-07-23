@@ -1,0 +1,13 @@
+C:\Users\bonek\RiderProjects\RTask\RTask\bin\Debug\netcoreapp3.1\RTask.exe
+C:\Users\bonek\RiderProjects\RTask\RTask\bin\Debug\netcoreapp3.1\RTask.deps.json
+C:\Users\bonek\RiderProjects\RTask\RTask\bin\Debug\netcoreapp3.1\RTask.runtimeconfig.json
+C:\Users\bonek\RiderProjects\RTask\RTask\bin\Debug\netcoreapp3.1\RTask.runtimeconfig.dev.json
+C:\Users\bonek\RiderProjects\RTask\RTask\bin\Debug\netcoreapp3.1\RTask.dll
+C:\Users\bonek\RiderProjects\RTask\RTask\bin\Debug\netcoreapp3.1\RTask.pdb
+C:\Users\bonek\RiderProjects\RTask\RTask\obj\Debug\netcoreapp3.1\RTask.csprojAssemblyReference.cache
+C:\Users\bonek\RiderProjects\RTask\RTask\obj\Debug\netcoreapp3.1\RTask.csproj.CoreCompileInputs.cache
+C:\Users\bonek\RiderProjects\RTask\RTask\obj\Debug\netcoreapp3.1\RTask.AssemblyInfoInputs.cache
+C:\Users\bonek\RiderProjects\RTask\RTask\obj\Debug\netcoreapp3.1\RTask.AssemblyInfo.cs
+C:\Users\bonek\RiderProjects\RTask\RTask\obj\Debug\netcoreapp3.1\RTask.dll
+C:\Users\bonek\RiderProjects\RTask\RTask\obj\Debug\netcoreapp3.1\RTask.pdb
+C:\Users\bonek\RiderProjects\RTask\RTask\obj\Debug\netcoreapp3.1\RTask.genruntimeconfig.cache
